@@ -47,4 +47,5 @@ Give me index.html, style.css, script.js.
 <body class="bg-[#f1f5f9]">
   <div id="root"></div>
 </body>
+
 </html>
