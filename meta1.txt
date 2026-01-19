@@ -1,0 +1,5 @@
+{
+  "name": "Zion Songs",
+  "description": "A comprehensive design and preview tool for building a full-screen Android WebView application for Zion Songs lyrics, compatible with MIT App Inventor, Kodular, and Niotron.",
+  "requestFramePermissions": []
+}
